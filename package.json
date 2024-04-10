@@ -1,0 +1,24 @@
+{
+  "name": "libaarhusxyz-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emerald-geomodelling/libaarhusxyz-js"
+  },
+  "keywords": [
+    "msgpack, xyz, geophysics"
+  ],
+  "author": "redhog",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "dependencies": {
+    "msgpack-lite": "^0.1.26",
+    "msgpack-numpy-js": "^0.0.1"
+  }
+}
